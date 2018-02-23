@@ -1,0 +1,54 @@
+
+title{color: magenta; font-style:italic;font-size:200px}
+html,body,head {height:100%; width:100%; margin:0%;}
+
+
+
+body{background:url(artboard1.png);
+      background-position: 100% 100%;
+      background-size:cover;
+      background-origin: padding-box;
+      background-color: rgba(50, 115, 220, 0.0);
+    background-clip: border-box;;}
+
+padding-box{color:none;
+  display: inline-block;
+  transition: 100ms;
+  padding:20em;
+  border:50px solid;
+  margin: .1em;
+  height:100%auto;
+  width:100%;
+  text-align:center;}
+
+
+  .group0 h1 {font-family: "Chiller Regular"; text-align:center; text-shadow: 2px 4px 10px red;}
+  .group1{}
+  .group2{}
+  .group3{}
+  .group4{}
+  .group5{}
+  .group6{}
+
+div {
+      width: none;
+      height: none;
+      padding: none;
+      border:none;
+      background: none;
+    }
+    .content-box {
+      box-sizing: content-box;}
+      .border-box {
+    box-sizing: border-box;}
+
+    h1,h3 {font-family:"Bradley Hand ITC";}
+
+  h1 {font-size: 30px;color:coral;text-align: center;}
+
+    h2 {font-size: 40px;color:coral;font-family: cursive;font-family:"Chiller Regular";text-align: center;}
+      h3 {font-size: 30px;color:yellow(25,100,300);;text-align: center;}
+
+        h4 {font-size:30px;text-align: center;}
+          h5 {font-size: 30px;text-align: center;}
+            h6 {font-size: 30px;text-transform: uppercase;letter-spacing: normal;;text-align: center;}
