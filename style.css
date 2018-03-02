@@ -21,15 +21,15 @@ padding-box{color:none;
   width:100%;
   text-align:center;}
 
-
+  div.group0 h6 {font-size:20px;text-align: center;font-family:"Algerian";text-shadow: 2px 4px 10px red;}
   .group0 h1 {font-family: "Chiller Regular"; text-align:center; text-shadow: 2px 4px 10px red;}
-  .group1{}
-  .group2{}
-  .group3{}
-  .group4{}
-  .group5{}
-  .group6{}
-
+  div.group1 h6 {font-size:40px;text-align: center;font-family:"Algerian";text-shadow: 2px 4px 10px red;}
+  div.group2 h6 {font-size:20px;text-align: center;font-family:"Algerian";text-shadow: 2px 4px 10px red;}
+  div.group3 h6 {font-size:20px;text-align: center;font-family:"Algerian";text-shadow: 2px 4px 10px red;}
+  div.group4 h6 {font-size:20px;text-align: center;font-family:"Algerian";text-shadow: 2px 4px 10px red;}
+  div.group5 h6 {font-size:30px;text-align: center;font-family:"Algerian";text-shadow: 2px 4px 10px red;}
+  div.group6 h2 {font-size:20px;text-align: center;font-family:"Algerian";text-shadow: 2px 4px 10px red;}
+  div.group6 h6  {font-size:40px;text-align: center;font-family:"Algerian";text-shadow: 2px 4px 10px red;}             
 div {
       width: none;
       height: none;
@@ -46,9 +46,9 @@ div {
 
   h1 {font-size: 30px;color:coral;text-align: center;}
 
-    h2 {font-size: 40px;color:coral;font-family: cursive;font-family:"Chiller Regular";text-align: center;}
-      h3 {font-size: 30px;color:yellow(25,100,300);;text-align: center;}
+    h2 {font-size: 40px;color:coral;font-family: cursive;font-family:"Chiller Regular";text-align: center; text-shadow: 2px 4px 10px black;}
+      h3 {font-size: 30px;color:cyan;;text-align: center;text-shadow: 2px 4px 10px red;}
 
-        h4 {font-size:30px;text-align: center;}
+        h4 {font-size:60px;text-align: center;font-family:"Algerian";text-shadow: 2px 4px 10px red;}
           h5 {font-size: 30px;text-align: center;}
             h6 {font-size: 30px;text-transform: uppercase;letter-spacing: normal;;text-align: center;}
